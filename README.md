@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
+<h3 align="center">Full Stack Developer | React Native | Node.js | MongoDB</h3>
 
-<!--
-**traincapetech/traincapetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently building scalable CRM & Chat Applications  
+- 📱 Working with React Native + Node.js + MongoDB  
+- ⚡ Focused on Real-time systems (Socket.io)  
+- 🌱 Learning System Design & App Scaling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+- React Native
+- React.js
+- JavaScript
+- HTML / CSS
+
+### 🧠 Backend
+- Node.js
+- Express.js
+- MongoDB
+- Socket.io
+
+### ⚙️ Tools
+- Git & GitHub
+- Postman
+- Firebase (FCM)
+- Render / Deployment
+
+---
+
+## 📌 Featured Projects
+
+### 🔥 CRM System
+- Role-based authentication
+- Lead management
+- Real-time updates
+- Payment integration
+
+### 💬 Real-time Chat App
+- Socket.io based messaging
+- Push Notifications (FCM)
+- Scalable backend architecture
+
+---
+
+## 📊 GitHub Stats
+
+![Traincape's GitHub stats](https://github-readme-stats.vercel.app/api?username=traincapetech&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Connect With Us
+
+- 📧 Email: sales@traincapetech.in
+
+---
+
+⭐️ From [traincapetech](https://github.com/traincapetech)
