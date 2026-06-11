@@ -1,5 +1,5 @@
 # 💫 About Me:
-i have so many projects like datin app on react native, crm's(personal and for saas) and many more<br>
+i have so many projects like dating app on react native, crm's(personal and for saas) and many more<br>
 
 
 ## 🌐 Socials:
